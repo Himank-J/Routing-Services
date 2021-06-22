@@ -34,9 +34,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![login-screenshot](images/login.png)
-![chat1-screenshot](images/chat_interface.png)
-![chat1-screenshot](images/chat_interface2.png)
+**NOTE - Kindly refer routing services report for detailed view and details**
+
+![login-screenshot](code_output/1.JPG)
+
+![login-screenshot](code_output/2.JPG)
+
+![login-screenshot](code_output/3.JPG)
+
+![login-screenshot](code_output/4.JPG)
+
+![login-screenshot](code_output/5.JPG)
 <br />
 <p align="justify">Routing is the process of selecting a path for traffic in a network, or between or across 
 multiple networks. It can be performed in public and private transportation, such as system 
