@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://ibb.co/sC0TMQV">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9crgEs5580stwd_YJe7kONRkKzu73ulZQQ&usqp=CAU" alt="Logo" width="120" height="120">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9crgEs5580stwd_YJe7kONRkKzu73ulZQQ&usqp=CAU" alt="Logo" width="180" height="120">
   </a>
 
   <h3 align="center">Route - Guiding you the right way</h3>
